@@ -1,0 +1,10 @@
+.footer{
+    background-color: black;    
+    display: block;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 18px;
+    color: aquamarine;
+    position: absolute;
+    bottom: 0;
+}
